@@ -7,6 +7,7 @@ package com.javarush.task.task39.task3908;
 public class Solution {
     public static void main(String[] args) {
         System.out.println("I shall write the Java program to find the poliandrom here");
+        System.out.println("And now I have added one more line");
     }
 
     public static boolean isPalindromePermutation(String s) {
